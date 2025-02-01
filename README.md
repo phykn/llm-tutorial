@@ -13,4 +13,4 @@ Example
 ```bash
 gradio 02_simple_chatbot.py
 ```
-![demo](.asset/simple_chatbot.gif)
+![demo](asset/simple_chatbot.gif)
